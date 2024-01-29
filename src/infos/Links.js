@@ -5,7 +5,7 @@ import { VLSkype } from '@icongo/vl';
 
 export const LinkInfos = [
   {
-    href: 'mailto:james.gates.0212@gmail.com',
+    href: 'mailto:poxii2001@gmail.com',
     icon: {
       dark: LGGoogleGmail,
       light: LGGoogleGmail,
@@ -13,15 +13,7 @@ export const LinkInfos = [
     label: 'GMail',
   },
   {
-    href: 'mailto:pop.runner88@outlook.com',
-    icon: {
-      dark: IUMicrosoftOutlook,
-      light: IUMicrosoftOutlook,
-    },
-    label: 'Outlook',
-  },
-  {
-    href: 'https://join.skype.com/invite/cNobIuz9Vg5u',
+    href: 'https://join.skype.com/invite/CesoNNRu2asp',
     icon: {
       dark: VLSkype,
       light: VLSkype,
@@ -29,7 +21,7 @@ export const LinkInfos = [
     label: 'Skype',
   },
   {
-    href: 'https://github.com/james-gates-0212',
+    href: 'https://github.com/poxii',
     icon: {
       dark: LGGithubIcon,
       light: ICPGithubIconWhite,

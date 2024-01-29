@@ -14,15 +14,12 @@ export default function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{' '}
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
+                Hello!{' '}
               </h1>
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> James Gates</strong>
+                <strong className="main-name"> Antoni Kowalczyk</strong>
               </h1>
 
               <div style={{ padding: 50 }}>

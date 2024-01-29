@@ -11,18 +11,17 @@ export default function Introduce() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: '2.6em' }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Welcome to <span className="purple"> My Site</span>
             </h1>
             <p className="home-about-body">
-              A Passionate Full Stack Developer with 5+ years of experience in blending the art of design with skill of
-              programming to maintain and optimize for performance of website.
+              ​Step into the world of innovative web development where I, a skilled JavaScript backend developer, turn
+              complexities into elegant, efficient, and secure solutions.
               <br />
               <br />
-              I was very interested in Web Application during my university period and the Library &amp; Information
-              Science made me as a Full Stack Developer. Web Application Development is not only my job, but also my
-              life.
+              I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in a long time.
               <br />
-              <br />I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in a long time.
+              <br />
+              Your digital journey starts here, tailored to exceed expectations.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

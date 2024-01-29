@@ -7,14 +7,18 @@ export default function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: 'left' }}>
-            Hi, everyone, I'm James Gates. I'm full-stack developer and software development expert.
+            Hi, everyone, I'm Antoni Kowalczyk.
             <br />
-            <br />I have 5+ years' experience for web development. During last years, I had earned many skills to
-            develop and manage a website and it now helps for a new project to develop in a high quality, rapidly.
+            I am a Results-driven JavaScript Full-stack Developer with a specialization and strong inclination toward
+            backend development.
             <br />
-            <br />I like to work with a simple communication, a clean and optimized code convention, a high quality
-            development for collaboration and maintenance, and a keeping schedules for a project. I also love learning a
-            new thing from analyzing, discussing and resolving variable claims.
+            6+ years of proven expertise in designing and implementing robust server-side applications while maintaining
+            proficiency in front-end technologies.
+            <br />
+            <br />
+            Adept at leveraging advanced JavaScript frameworks and libraries for optimal performance and scalability.
+            Strong analytical and problem-solving skills combined with effective communication and collaborative
+            abilities.
           </p>
         </blockquote>
       </Card.Body>

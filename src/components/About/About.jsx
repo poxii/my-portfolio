@@ -70,7 +70,7 @@ export default function About() {
           </p>
           <ul>
             <li>Fast Progress, Best Quality and Constant Report</li>
-            <li>Cooperative Idea Support and so on</li>
+            <li>High attention to detail, problem-solving skill...</li>
           </ul>
         </div>
 
