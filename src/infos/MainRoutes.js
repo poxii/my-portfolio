@@ -21,9 +21,6 @@ export const MainRoutes = [
     element: <Experience />,
   },
   {
-    label: 'Resume',
-  },
-  {
     className: 'fork-btn-inner',
     href: 'https://github.com/poxii',
     icon: () => (

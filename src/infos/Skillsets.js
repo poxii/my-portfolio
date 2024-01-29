@@ -56,10 +56,10 @@ export const Skillsets = [
         icon: STITypescript,
         label: 'TypeScript',
       },
-      {
-        icon: STIJava,
-        label: 'Java',
-      },
+      // {
+      //   icon: STIJava,
+      //   label: 'Java',
+      // },
       {
         icon: STIPhp,
         label: 'PHP',
@@ -95,10 +95,10 @@ export const Skillsets = [
         icon: VLExpressjs,
         label: 'Express.js',
       },
-      {
-        icon: VLSpringio,
-        label: 'Spring',
-      },
+      // {
+      //   icon: VLSpringio,
+      //   label: 'Spring',
+      // },
       {
         icon: LGCodeigniterIcon,
         label: 'CodeIgniter',
@@ -161,10 +161,10 @@ export const Skillsets = [
         icon: VLGitlab,
         label: 'Gitlab',
       },
-      {
-        icon: VLHeroku,
-        label: 'Heroku',
-      },
+      // {
+      //   icon: VLHeroku,
+      //   label: 'Heroku',
+      // },
       {
         icon: VLFirebase,
         label: 'Firebase',
@@ -182,10 +182,10 @@ export const Skillsets = [
         icon: LGOpenaiIcon,
         label: 'OpenAI API',
       },
-      {
-        icon: VLYelp,
-        label: 'Yelp API',
-      },
+      // {
+      //   icon: VLYelp,
+      //   label: 'Yelp API',
+      // },
     ],
   },
   {
