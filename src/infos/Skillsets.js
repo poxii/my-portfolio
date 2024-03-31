@@ -31,7 +31,6 @@ import {
   VLSqlite,
   VLW3Html5,
   VLWordpress,
-  VLYelp,
 } from '@icongo/vl';
 
 export const Skillsets = [
@@ -54,10 +53,6 @@ export const Skillsets = [
         icon: STITypescript,
         label: 'TypeScript',
       },
-      // {
-      //   icon: STIJava,
-      //   label: 'Java',
-      // },
       {
         icon: STIPhp,
         label: 'PHP',
