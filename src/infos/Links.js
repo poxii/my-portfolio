@@ -5,7 +5,7 @@ import { VLSkype } from '@icongo/vl';
 
 export const LinkInfos = [
   {
-    href: 'mailto:poxii2001@gmail.com',
+    href: 'mailto:wt9237574@gmail.com',
     icon: {
       dark: LGGoogleGmail,
       light: LGGoogleGmail,
