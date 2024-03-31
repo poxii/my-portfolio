@@ -7,7 +7,7 @@ export default function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: 'left' }}>
-            Hi, everyone, I'm Antoni Kowalczyk.
+            Hi, everyone, I'm Wilcox Ekente.
             <br />
             I am a Results-driven JavaScript Full-stack Developer with a specialization and strong inclination toward
             backend development.
