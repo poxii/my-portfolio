@@ -88,10 +88,6 @@ export const Skillsets = [
         icon: VLExpressjs,
         label: 'Express.js',
       },
-      // {
-      //   icon: VLSpringio,
-      //   label: 'Spring',
-      // },
       {
         icon: LGCodeigniterIcon,
         label: 'CodeIgniter',
